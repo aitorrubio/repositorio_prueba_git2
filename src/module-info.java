@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Aitor
- *
- */
-module ProyectoGit {
-}
